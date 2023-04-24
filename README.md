@@ -11,7 +11,7 @@
 
 <br>
 
-> On the Internet, people call me **aix0**.
+>
 I'm a Java developer from Poland who's __21 years__ old and has been coding for over __1 year__.
 I like opensource programs very much and I like learning about new technologies.
 <br>
